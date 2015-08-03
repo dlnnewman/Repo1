@@ -1,0 +1,57 @@
+@media (min-width: 1200px) {
+	main {
+		float: right;
+	}
+
+	img {
+		float: left;
+	}
+}
+
+/*--For all widths--*/
+
+body {
+	background-color: gray;
+	font-family: helvetica;
+}
+
+
+header {
+	background-color: #006400;
+	padding: 1px;
+	margin: auto;
+}
+
+
+h2 {
+	font-size: 1.25em;
+}
+
+
+
+p {
+	font-size: 1em;
+	font-weight: lighter;
+}
+
+
+
+a {
+	color: #006400;
+	text-decoration: none;
+}
+
+/* when mouse is over link */
+
+a:hover {
+	color: black;
+	text-decoration: underline
+}
+
+@media (min-width: 768px) {
+    main {
+        margin: auto
+    }
+}
+
+

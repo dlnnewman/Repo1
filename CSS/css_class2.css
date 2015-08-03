@@ -1,0 +1,17 @@
+
+@media (min-width: 800px) {
+
+	figure {
+		float: left;
+	}
+
+	.wrap1 {
+		float: center;
+	}
+
+	.wrap2 {
+		float: right;
+	}
+
+
+}
